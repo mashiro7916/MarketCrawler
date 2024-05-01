@@ -1,0 +1,10 @@
+cryptocurrency_list = [{"id":1,"symbol":"BTC"},
+                  {"id":1839,"symbol":"BNB"},
+                  {"id":1027,"symbol":"ETH"},
+                  {"id":5426,"symbol":"SOL"},
+                  {"id":52,"symbol":"XRP"},
+                  {"id":74,"symbol":"DOGE"},
+                  {"id":11419,"symbol":"TON"},
+                  {"id":3890,"symbol":"MATIC"},
+                  {"id":2,"symbol":"LTC"},
+                  ]
