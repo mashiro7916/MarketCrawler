@@ -6,3 +6,7 @@ This repository is a crawler to obtain the history of financial trading markets 
 git clone https://github.com/mashiro7916/MarketCrawler.git
 pip install -r requirements.txt
 ```
+## Start crawl
+```bash
+python start_history_crawler.py
+```
