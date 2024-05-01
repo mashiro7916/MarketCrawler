@@ -66,8 +66,8 @@ DOWNLOAD_DELAY = 3
 ITEM_PIPELINES = {
    "MarketCrawler.pipelines.MarketcrawlerPipeline": 300,
 }
-MONGO_URI = "mongodb+srv://test:test@finance.ipqp74s.mongodb.net/?retryWrites=true&w=majority&appName=finance"
-MONGO_DB = "finance"
+MONGO_URI = <your mongoDb access URI>
+MONGO_DB = <your db name>
 # LOG_ENABLED = False
 LOG_LEVEL="INFO"
 # Enable and configure the AutoThrottle extension (disabled by default)
