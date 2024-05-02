@@ -7,7 +7,7 @@ git clone https://github.com/mashiro7916/MarketCrawler.git
 pip install -r requirements.txt
 ```
 ## Set mongoDB 
-Set mongoDB database named finance(you can change it in [settings.py](MarketCrawler/settings.py)) and set collection nameed(you can change it in [pipelines.py](MarketCrawler/pipelines.py)).
+Set mongoDB database named finance(you can change it in [settings.py](MarketCrawler/settings.py)) and set collection named(you can change it in [pipelines.py](MarketCrawler/pipelines.py)).
 ## Start crawl
 ```bash
 python start_history_crawler.py
