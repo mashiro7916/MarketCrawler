@@ -6,6 +6,8 @@ This repository is a crawler to obtain the history of financial trading markets 
 git clone https://github.com/mashiro7916/MarketCrawler.git
 pip install -r requirements.txt
 ```
+## Set mongoDB 
+Set mongoDB named finance(you can change it in [setting.py](MarketCrawler/setting.py))
 ## Start crawl
 ```bash
 python start_history_crawler.py
